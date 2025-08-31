@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/images/image1.jpg",
+    "title": "Beautiful Sunset",
+    "keywords": ["sunset", "nature", "sky"],
+    "description": "A beautiful sunset view from the hills."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/images/image2.jpg",
+    "title": "City Lights",
+    "keywords": ["city", "night", "lights"],
+    "description": "The amazing view of city lights at night."
+  }
+]
